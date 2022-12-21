@@ -5,3 +5,5 @@ Using what we know about machine learning and neural networks, we'll use the fea
 
 ## Analysis
 ### Data Preprocessing
+  - What variable(s) are considered the target(s) for your model?
+    - We
